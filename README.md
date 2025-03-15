@@ -23,10 +23,10 @@
 ## 📸 Capturas de Pantalla
 
 ### 📺 Vista Principal
-![Cartelera Principal](Ajax/imagenes/cartelera-principal.png)
+![Cartelera Principal](Ajax/imagenes/cartelera-principal.jpg)
 
-### 📽️ Visualización del Tráiler
-![Tráiler en reproducción](Ajax/imagenes/trailer-reproduciendo.png)
+### 📽️ Visualización de cambio de película
+![Tráiler en reproducción](Ajax/imagenes/trailer-reproduciendo.jpg)
 
 ---
 
