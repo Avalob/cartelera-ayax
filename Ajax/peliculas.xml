@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+    <pelicula>
+        <titulo>El Padrino</titulo>
+        <direccion>Francis Ford Coppola</direccion>
+        <duracion>175 min</duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <artistas>Marlon Brando, Al Pacino, James Caan, Robert Duvall, Diane Keaton</artistas>
+        <genero>Drama-Crimen</genero>
+        <cartel>el-padrino.jpg</cartel>
+        <sinopsis>La historia de la familia Corleone, una de las más poderosas de la mafia italiana en Nueva York, 
+        y su lucha por mantener el poder en el mundo del crimen organizado.</sinopsis>
+        <video>https://www.youtube.com/embed/UaVTIH8mujA</video>
+    </pelicula>
+
+    <pelicula>
+        <titulo>El Caballero Oscuro</titulo>
+        <direccion>Christopher Nolan</direccion>
+        <duracion>152 min</duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <artistas>Christian Bale, Heath Ledger, Aaron Eckhart, Gary Oldman, Morgan Freeman</artistas>
+        <genero>Acción-Drama</genero>
+        <cartel>el-caballero-oscuro.jpg</cartel>
+        <sinopsis>Batman debe enfrentarse a su mayor enemigo, el Joker, quien sume a Gotham en el caos con su 
+        violencia y locura descontrolada.</sinopsis>
+        <video>https://www.youtube.com/embed/EXeTwQWrcwY</video>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Titanic</titulo>
+        <direccion>James Cameron</direccion>
+        <duracion>195 min</duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <artistas>Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates</artistas>
+        <genero>Romance-Drama</genero>
+        <cartel>titanic.jpg</cartel>
+        <sinopsis>Jack y Rose, dos jóvenes de clases sociales opuestas, se enamoran a bordo del Titanic, 
+        sin saber que el destino del barco cambiará sus vidas para siempre.</sinopsis>
+        <video>https://www.youtube.com/embed/kVrqfYjkTdQ</video>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Inception</titulo>
+        <direccion>Christopher Nolan</direccion>
+        <duracion>148 min</duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <artistas>Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy, Ken Watanabe</artistas>
+        <genero>Ciencia Ficción-Acción</genero>
+        <cartel>inception.jpg</cartel>
+        <sinopsis>Un ladrón experto en extraer secretos del subconsciente es contratado para implantar una idea 
+        en la mente de un empresario, pero su propio pasado amenaza la misión.</sinopsis>
+        <video>https://www.youtube.com/embed/YoHD9XEInc0</video>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Avatar</titulo>
+        <direccion>James Cameron</direccion>
+        <duracion>162 min</duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <artistas>Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang</artistas>
+        <genero>Ciencia Ficción-Aventura</genero>
+        <cartel>avatar.jpg</cartel>
+        <sinopsis>Un ex-marine parapléjico viaja a Pandora y se convierte en un Na’vi, participando en una lucha 
+        por la supervivencia de los habitantes del planeta contra los humanos.</sinopsis>
+        <video>https://www.youtube.com/embed/5PSNL1qE6VY</video>
+    </pelicula>
+
+    <pelicula>
+        <titulo>Interestelar</titulo>
+        <direccion>Christopher Nolan</direccion>
+        <duracion>169 min</duracion>
+        <nacionalidad>Estados Unidos</nacionalidad>
+        <artistas>Matthew McConaughey, Anne Hathaway, Jessica Chastain, Michael Caine</artistas>
+        <genero>Ciencia Ficción-Drama</genero>
+        <cartel>interestelar.jpg</cartel>
+        <sinopsis>Un grupo de astronautas viaja a través de un agujero de gusano en busca de un nuevo hogar 
+        para la humanidad, enfrentándose a los límites del tiempo y el espacio.</sinopsis>
+        <video>https://www.youtube.com/embed/zSWdZVtXT7E</video>
+    </pelicula>
+</peliculas>
+
